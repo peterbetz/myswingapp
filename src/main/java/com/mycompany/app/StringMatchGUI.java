@@ -33,7 +33,7 @@ public class StringMatchGUI extends JFrame {
 	private JButton buttonSubmit = new JButton("Submit");
 	
 	public StringMatchGUI() {
-		super("JPanel Demo Program");
+		super("String Match GUI");
 		
 		// create a new panel with GridBagLayout manager
 		JPanel newPanel = new JPanel(new GridBagLayout());
